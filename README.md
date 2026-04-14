@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .car one-word domains from Unique 
 
 **Public extract:** 9,871 rows · **Live catalog:** 9,871 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/car`  
 **Best for:** founders, investors, studios
 
@@ -71,16 +71,16 @@ print(df.head())
 | any.car        | resell    | —         | —             | 80             | 42     | 3      | Namecheap |
 | indeed.car     | premium   | —         | —             | 94             | 85     | 6      | —         |
 | line.car       | available | $2,400    | —             | 74             | 65     | 4      | namecheap |
-| flying.car     | resell    | —         | —             | 96             | 25     | 6      | Namecheap |
+| flying.car     | resell    | —         | —             | 96             | 26     | 6      | Namecheap |
 | AOL.car        | premium   | —         | —             | 86             | 85     | 3      | —         |
 | power.car      | available | $2,400    | —             | 98             | 62     | 5      | namecheap |
 | ally.car       | premium   | —         | —             | 68             | 85     | 4      | —         |
 | seventeen.car  | available | $2,400    | —             | 84             | 62     | 9      | namecheap |
-| swift.car      | premium   | —         | —             | 68             | 85     | 5      | —         |
-| enterprise.car | available | $2,400    | —             | 68             | 61     | 10     | namecheap |
 | chase.car      | premium   | —         | —             | 66             | 85     | 5      | —         |
-| ace.car        | available | $2,400    | —             | 88             | 57     | 3      | namecheap |
+| enterprise.car | available | $2,400    | —             | 68             | 61     | 10     | namecheap |
 | Nokia.car      | premium   | —         | —             | 88             | 84     | 5      | —         |
+| ace.car        | available | $2,400    | —             | 88             | 57     | 3      | namecheap |
+| swift.car      | premium   | —         | —             | 68             | 84     | 5      | —         |
 | live.car       | available | $2,400    | —             | 108            | 56     | 4      | namecheap |
 | sheraton.car   | premium   | —         | —             | 52             | 84     | 8      | —         |
 | data.car       | available | $2,400    | —             | 70             | 56     | 4      | namecheap |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAR One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAR One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
