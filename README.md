@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .car one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,870 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,870 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,870 domains · **Median ask:** $2,324.61 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/car`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,11 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| tips.car          | available | $2,400    | —             | 80             | 26     | 4      | namecheap |
+| Trex.car          | available | $2,400    | —             | 80             | 24     | 5      | namecheap |
+| WiFi.car          | available | $2,400    | —             | 83             | 37     | 5      | namecheap |
+| ladies.car        | available | $2,400    | —             | 80             | 17     | 6      | namecheap |
+| hangon.car        | available | $2,400    | —             | 82             | 6      | 7      | namecheap |
 | CocaCola.car      | available | $2,400    | —             | 92             | 82     | 9      | namecheap |
 | hotels.car        | available | $1,999.99 | $2,199        | 64             | 82     | 6      | namesilo  |
 | nets.car          | available | $2,400    | —             | 54             | 81     | 4      | namecheap |
@@ -75,15 +80,10 @@ print(df.head())
 | shortcuts.car     | available | $2,400    | —             | 48             | 41     | 10     | namecheap |
 | prompts.car       | available | $1,999.99 | $2,199        | 54             | 39     | 7      | namesilo  |
 | justin.car        | available | $2,400    | —             | 58             | 38     | 7      | namecheap |
-| WiFi.car          | available | $2,400    | —             | 83             | 37     | 5      | namecheap |
 | spectra.car       | available | $2,400    | —             | 62             | 34     | 7      | namecheap |
 | Cats.car          | available | $2,400    | —             | 59             | 33     | 4      | namecheap |
 | William.car       | available | $2,400    | —             | 74             | 31     | 7      | namecheap |
 | slots.car         | available | $1,999.99 | $2,199        | 49             | 31     | 5      | namesilo  |
-| inspiration.car   | available | $2,400    | —             | 88             | 30     | 11     | namecheap |
-| rewards.car       | available | $1,999.99 | $2,199        | 62             | 30     | 7      | namesilo  |
-| videos.car        | available | $2,400    | —             | 52             | 30     | 6      | namecheap |
-| blocks.car        | available | $2,400    | —             | 53             | 29     | 6      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,870 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,870 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is defined by a single trait: every name uses the .car extension and consists of one word. That creates a mix of broad generics, category words, and more speculative brandables. Examples such as tips.car, girls.car, WiFi.car, and finals.car show the range from descriptive to unusual. For founders, the main question is whether the word is memorable and commercially credible with .car. For investors, the key test is entry price versus likely buyer depth. With a median ask of $2,324.61, stronger names tend to be the ones where the word and the extension read naturally together.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All names in this selection use the .car extension
+- Median ask across the set is $2,324.61
+- Best fits pair cleanly with automotive meaning
+- Check brand conflict risk on names like Chanel.car
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAR One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAR One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
