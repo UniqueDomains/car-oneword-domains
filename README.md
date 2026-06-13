@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .car one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,870 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,870 domains · **Median ask:** $2,324.61 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,870 domains · **Median ask:** $2,103.11 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/car`  
+**Last updated:** 2026-06-13
+**Canonical page:** `https://unique.domains/domains/tld/car`
 **Best for:** founders, investors, studios
 
 ---
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| tips.car          | available | $2,400    | —             | 80             | 26     | 4      | namecheap |
-| Trex.car          | available | $2,400    | —             | 80             | 24     | 5      | namecheap |
-| WiFi.car          | available | $2,400    | —             | 83             | 37     | 5      | namecheap |
-| ladies.car        | available | $2,400    | —             | 80             | 17     | 6      | namecheap |
-| hangon.car        | available | $2,400    | —             | 82             | 6      | 7      | namecheap |
-| CocaCola.car      | available | $2,400    | —             | 92             | 82     | 9      | namecheap |
-| hotels.car        | available | $1,999.99 | $2,199        | 64             | 82     | 6      | namesilo  |
-| nets.car          | available | $2,400    | —             | 54             | 81     | 4      | namecheap |
-| RedSox.car        | available | $2,400    | —             | 72             | 60     | 7      | namecheap |
-| keepthechange.car | available | $2,400    | —             | 46             | 59     | 15     | namecheap |
-| agents.car        | available | $2,400    | —             | 56             | 50     | 6      | namecheap |
-| Books.car         | available | $2,400    | —             | 52             | 49     | 5      | namecheap |
-| jobs.car          | available | $2,400    | —             | 79             | 42     | 4      | namecheap |
-| shortcuts.car     | available | $2,400    | —             | 48             | 41     | 10     | namecheap |
-| prompts.car       | available | $1,999.99 | $2,199        | 54             | 39     | 7      | namesilo  |
-| justin.car        | available | $2,400    | —             | 58             | 38     | 7      | namecheap |
-| spectra.car       | available | $2,400    | —             | 62             | 34     | 7      | namecheap |
-| Cats.car          | available | $2,400    | —             | 59             | 33     | 4      | namecheap |
-| William.car       | available | $2,400    | —             | 74             | 31     | 7      | namecheap |
-| slots.car         | available | $1,999.99 | $2,199        | 49             | 31     | 5      | namesilo  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| saw.car        | available | $1,999.99 | $2,199        | 84             | 20     | 3      | namesilo  |
+| garlic.car     | available | $1,999.99 | $2,199        | 102            | 21     | 6      | namesilo  |
+| beguiling.car  | available | $1,999.99 | $2,199        | 88             | 2      | 9      | namesilo  |
+| Eid.car        | available | $1,999.99 | $2,199        | 86             | 17     | 3      | namesilo  |
+| granola.car    | available | $2,400    | —             | 90             | 16     | 7      | namecheap |
+| bust.car       | available | $1,999.99 | $2,199        | 102            | 10     | 4      | namesilo  |
+| people.car     | available | $1,999.99 | $2,199        | 102            | 42     | 6      | namesilo  |
+| working.car    | available | $1,999.99 | $2,199        | 80             | 22     | 7      | namesilo  |
+| bringit.car    | available | $1,999.99 | $2,199        | 98             | 10     | 8      | namesilo  |
+| complicate.car | available | $1,999.99 | $2,199        | 80             | 3      | 10     | namesilo  |
+| monday.car     | available | $1,999.99 | $2,199        | 86             | 33     | 6      | namesilo  |
+| Netflix.car    | available | $1,999.99 | $2,199        | 92             | 88     | 7      | namesilo  |
+| advisor.car    | available | $1,999.99 | $2,199        | 81             | 30     | 7      | namesilo  |
+| sunglass.car   | available | $2,400    | —             | 80             | 8      | 8      | namecheap |
+| pub.car        | available | $2,400    | —             | 94             | 28     | 3      | namecheap |
+| fuel.car       | available | $1,999.99 | $2,199        | 96             | 31     | 4      | namesilo  |
+| sunday.car     | available | $1,999.99 | $2,199        | 106            | 33     | 6      | namesilo  |
+| warm.car       | available | $1,999.99 | $2,199        | 112            | 21     | 4      | namesilo  |
+| tentative.car  | available | $1,999.99 | $2,199        | 81             | 5      | 9      | namesilo  |
+| thirteen.car   | available | $1,999.99 | $2,199        | 84             | 13     | 8      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAR One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAR One-Word Domains*. Version 2026-06-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
