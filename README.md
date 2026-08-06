@@ -1,10 +1,10 @@
-# Available .CAR One-Word Domains (12,870)
+# Available .CAR One-Word Domains (12,871)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C870%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C871%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .car one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,870 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,871 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,870 domains · **Median ask:** $2,103.11 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,871 domains · **Median ask:** $2,090.76 · **High-demand under $2,500:** 70
 
-**Last updated:** 2026-06-13
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/car`
 **Best for:** founders, investors, studios
 
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CAR one-word domain c
 
 ### Files
 
-- `car.csv` — public CSV extract (1,000 rows)
-- `car.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `car.csv`, public CSV extract (1,000 rows)
+- `car.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| saw.car        | available | $1,999.99 | $2,199        | 84             | 20     | 3      | namesilo  |
-| garlic.car     | available | $1,999.99 | $2,199        | 102            | 21     | 6      | namesilo  |
-| beguiling.car  | available | $1,999.99 | $2,199        | 88             | 2      | 9      | namesilo  |
-| Eid.car        | available | $1,999.99 | $2,199        | 86             | 17     | 3      | namesilo  |
-| granola.car    | available | $2,400    | —             | 90             | 16     | 7      | namecheap |
-| bust.car       | available | $1,999.99 | $2,199        | 102            | 10     | 4      | namesilo  |
-| people.car     | available | $1,999.99 | $2,199        | 102            | 42     | 6      | namesilo  |
-| working.car    | available | $1,999.99 | $2,199        | 80             | 22     | 7      | namesilo  |
-| bringit.car    | available | $1,999.99 | $2,199        | 98             | 10     | 8      | namesilo  |
-| complicate.car | available | $1,999.99 | $2,199        | 80             | 3      | 10     | namesilo  |
-| monday.car     | available | $1,999.99 | $2,199        | 86             | 33     | 6      | namesilo  |
-| Netflix.car    | available | $1,999.99 | $2,199        | 92             | 88     | 7      | namesilo  |
-| advisor.car    | available | $1,999.99 | $2,199        | 81             | 30     | 7      | namesilo  |
-| sunglass.car   | available | $2,400    | —             | 80             | 8      | 8      | namecheap |
-| pub.car        | available | $2,400    | —             | 94             | 28     | 3      | namecheap |
-| fuel.car       | available | $1,999.99 | $2,199        | 96             | 31     | 4      | namesilo  |
-| sunday.car     | available | $1,999.99 | $2,199        | 106            | 33     | 6      | namesilo  |
-| warm.car       | available | $1,999.99 | $2,199        | 112            | 21     | 4      | namesilo  |
-| tentative.car  | available | $1,999.99 | $2,199        | 81             | 5      | 9      | namesilo  |
-| thirteen.car   | available | $1,999.99 | $2,199        | 84             | 13     | 8      | namesilo  |
+| domain  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ane.car | available | $1,999.99 | $2,199        | low            | low    | 3      | namesilo  |
+| ask.car | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
+| atp.car | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
+| bar.car | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| BJP.car | available | $2,400    | —             | medium         | low    | 3      | namecheap |
+| bro.car | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
+| cot.car | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| Eid.car | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| feb.car | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| gee.car | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
+| hot.car | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| mad.car | available | $1,999.99 | $2,199        | medium         | medium | 3      | namesilo  |
+| msg.car | available | $2,400    | —             | high           | low    | 3      | namecheap |
+| oak.car | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
+| ole.car | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| pad.car | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
+| pub.car | available | $2,400    | —             | high           | low    | 3      | namecheap |
+| pup.car | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| red.car | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
+| saw.car | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,870 live domains                        |
+| 1,000-row public sample | 12,871 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 70 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is defined by a single trait: every name uses the .car extension and consists of one word. That creates a mix of broad generics, category words, and more speculative brandables. Examples such as tips.car, girls.car, WiFi.car, and finals.car show the range from descriptive to unusual. For founders, the main question is whether the word is memorable and commercially credible with .car. For investors, the key test is entry price versus likely buyer depth. With a median ask of $2,324.61, stronger names tend to be the ones where the word and the extension read naturally together.
+This set spans 12,871 one-word .car domains, nearly all available now, with asking prices concentrated between $500 and $5,000 (median near $2,090). Most names lean short and modern — themes like Modern, Elegant, and Playful appear across the list, including domains such as backyard.car, criteria.car, and makehistory.car. A small number, like show.car, watch.car, and motors.car, carry notably higher reference pricing relative to their ask, worth reviewing closely. When comparing these domains, weigh renewal cost, spelling simplicity, and how directly the word ties to an automotive or transportation use case.
 
-- All names in this selection use the .car extension
-- Median ask across the set is $2,324.61
-- Best fits pair cleanly with automotive meaning
-- Check brand conflict risk on names like Chanel.car
+- 12,871 one-word .car domains, 12,868 currently available
+- Median ask ~$2,090; most priced $500–$5,000
+- Modern, Elegant, and Playful naming themes dominate
+- show.car and watch.car show notably higher reference pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAR One-Word Domains*. Version 2026-06-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAR One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
