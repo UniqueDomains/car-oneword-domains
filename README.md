@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .car one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,063 domains · **Median ask:** $2,065.62 · **High-demand under $2,500:** 86
 
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/tld/car`
 **Best for:** founders, investors, studios
 
@@ -75,7 +75,7 @@ print(df.head())
 | Eid.car | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
 | feb.car | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
 | gee.car | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
-| hot.car | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| hot.car | available | $1,999.99 | $2,199        | medium         | medium | 3      | namesilo  |
 | mad.car | available | $1,999.99 | $2,199        | medium         | medium | 3      | namesilo  |
 | msg.car | available | $2,400    | —             | high           | low    | 3      | namecheap |
 | oak.car | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAR One-Word Domains*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAR One-Word Domains*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
