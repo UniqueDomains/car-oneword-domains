@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .car one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 32,846 domains · **Median ask:** $2,040.02 · **High-demand under $2,500:** 76
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/car`
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,6 @@ print(df.head())
 | domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | cell.car | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo  |
-| bang.car | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo  |
 | ane.car  | available | $1,999.99 | $2,199        | low            | low    | 3      | namesilo  |
 | ask.car  | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
 | atp.car  | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
@@ -84,6 +83,7 @@ print(df.head())
 | ole.car  | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
 | pad.car  | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
 | pub.car  | available | $2,400    | —             | high           | low    | 3      | namecheap |
+| pup.car  | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAR One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAR One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
