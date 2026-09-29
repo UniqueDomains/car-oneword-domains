@@ -1,10 +1,10 @@
-# Available .CAR One-Word Domains (25,702)
+# Available .CAR One-Word Domains (27,973)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C702%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C973%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .car one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,702 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,973 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,702 domains · **Median ask:** $2,035.59 · **High-demand under $2,500:** 150
+**Public extract:** 1,000 rows · **Live catalog:** 27,973 domains · **Median ask:** $2,027.50 · **High-demand under $2,500:** 166
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/car`
 **Best for:** founders, investors, studios
 
@@ -79,11 +79,11 @@ print(df.head())
 | gip.car | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
 | guy.car | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
 | hiv.car | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
-| idk.car | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
 | met.car | available | $1,863.20 | $2,064.20     | high           | low    | 3      | spaceship |
 | mmr.car | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
 | mob.car | available | $2,070    | $2,400        | high           | low    | 3      | namecheap |
-| pak.car | available | $1,863.20 | $2,064.20     | high           | low    | 3      | spaceship |
+| nps.car | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| ofc.car | available | $1,863.20 | $2,064.20     | medium         | low    | 3      | spaceship |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,702 live domains                        |
+| 1,000-row public sample | 27,973 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 150 high-demand names under $2,500         |
+| Basic exported fields   | 166 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAR One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAR One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
